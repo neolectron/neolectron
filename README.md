@@ -2,7 +2,7 @@
 
 😄 - I'm Manuel, a super-passionate Developer from south of France.
 
-🌱 - New technologies enthousiast, I diversy my skillset... a lot. 
+🌱 - New technologies enthousiast, I diversify my skillset... a lot. 
 
 ✨ - Teacher, Senior Fullstack developper, Software developper.
 
