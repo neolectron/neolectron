@@ -2,7 +2,9 @@
 
 😄 - I'm Manuel, a super-passionate Developer from south of France.
 
-🌱 - New technologies enthousiast, I diversify my skillset... a lot. 
+🌱 - As a new technologies enthousiast, I created @codinglab-io.
+
+A community of french developers focused around good-practices and rigor. [Join now](https://discord.gg/7Guzz9e)
 
 ✨ - Teacher, Senior Fullstack developper, Software developper.
 
@@ -21,6 +23,6 @@
 
 💬 Ask me anything on <a href="https://twitter.com/neolectron">Twitter</a>
 
-📫 Or by email: <a href="mailto:manuel@codinglab.io">manuel@codinglab.io</a>
+📫 Or by email: <a href="mailto:manuel.cartier1@gmail.com">manuel.cartier1@gmail.com</a>
 
 🎥 Drop by on my <a href="https://twitch.tv/neolectron">Twitch</a>, I actually stream livecoding session with a little touch of humor.
