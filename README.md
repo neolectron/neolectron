@@ -6,7 +6,7 @@
 
 A community of french developers focused around good-practices and rigor. [Join now](https://discord.gg/7Guzz9e)
 
-✨ - Teacher, Senior Fullstack developper, Software developper.
+✨ - Teacher, Fullstack developper, Software developper.
 
 🔭 - Passionnate about broadcasting, video encoding, ioT, security, web, and teaching of course. 
 
